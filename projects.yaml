@@ -13,3 +13,6 @@ projects:
   - name: fastui
     github_id: pydantic/fastui
     category: "miscellaneous"
+  - name: hyperview
+    github_id: Instawork/hyperview
+    category: "miscellaneous"
