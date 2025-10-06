@@ -10,17 +10,18 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-0-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-2-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/hasansezertasan/best-of-server-driven-interfaces/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/hasansezertasan/best-of-server-driven-interfaces?color=green&label=updated"></a>
 </p>
 
-This curated list contains 0 awesome open-source projects with a total of 0 stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/best-of-server-driven-interfaces/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/best-of-server-driven-interfaces/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/best-of-server-driven-interfaces/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 2 awesome open-source projects with a total of 10K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/hasansezertasan/best-of-server-driven-interfaces/issues/new/choose), submit a [pull request](https://github.com/hasansezertasan/best-of-server-driven-interfaces/pulls), or directly edit the [projects.yaml](https://github.com/hasansezertasan/best-of-server-driven-interfaces/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
+- [Miscellaneous](#miscellaneous) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -38,6 +39,30 @@ This curated list contains 0 awesome open-source projects with a total of 0 star
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
 
+<br>
+
+## Miscellaneous
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_If you can think of a more appropriate category for the items below, PRs welcome!_
+
+<details><summary><b><a href="https://github.com/pydantic/FastUI">fastui</a></b> (🥇25 ·  ⭐ 8.9K · ➕) - Build better UIs faster. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/pydantic/FastUI) (👨‍💻 32 · 🔀 340 · 📦 240 · 📋 230 - 52% open · ⏱️ 03.09.2025):
+
+	```
+	git clone https://github.com/pydantic/fastui
+	```
+</details>
+<details><summary><b><a href="https://github.com/Instawork/hyperview">hyperview</a></b> (🥉23 ·  ⭐ 1.6K · ➕) - Server-driven mobile apps with React Native. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Instawork/hyperview) (👨‍💻 55 · 🔀 79 · 📦 23 · 📋 160 - 29% open · ⏱️ 30.09.2025):
+
+	```
+	git clone https://github.com/Instawork/hyperview
+	```
+</details>
 
 ---
 
