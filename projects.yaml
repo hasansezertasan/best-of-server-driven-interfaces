@@ -13,6 +13,12 @@ projects:
   - name: fastui
     github_id: pydantic/fastui
     category: "miscellaneous"
+    group: True
+    group_id: "pydantic/fastui"
   - name: hyperview
     github_id: Instawork/hyperview
     category: "miscellaneous"
+  - name: fastui-tutorials
+    github_id: hasansezertasan/fastui-tutorials
+    category: "miscellaneous"
+    group_id: "pydantic/fastui"
