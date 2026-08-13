@@ -1,0 +1,4 @@
+,name,github_id,category,group,group_id,homepage,dependent_project_count,github_dependent_project_count,contributor_count,description,projectrank,show,projectrank_placing
+0,fastui,pydantic/fastui,miscellaneous,True,pydantic/fastui,{},2.0,2.0,35,,1,False,3.0
+1,hyperview,Instawork/hyperview,miscellaneous,,,{},23.0,23.0,56,,3,False,1.0
+2,fastui-tutorials,hasansezertasan/fastui-tutorials,miscellaneous,,pydantic/fastui,{},,,3,,0,False,
